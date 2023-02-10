@@ -1,0 +1,42 @@
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.csproj.AssemblyReference.cache
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer_MarkupCompile.cache
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer_MarkupCompile.lref
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\bin\Debug\net6.0-windows\SJF but nicer.exe
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\bin\Debug\net6.0-windows\SJF but nicer.deps.json
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\bin\Debug\net6.0-windows\SJF but nicer.runtimeconfig.json
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\bin\Debug\net6.0-windows\SJF but nicer.dll
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\bin\Debug\net6.0-windows\SJF but nicer.pdb
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.g.resources
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.AssemblyInfoInputs.cache
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.AssemblyInfo.cs
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.csproj.CoreCompileInputs.cache
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.dll
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\refint\SJF but nicer.dll
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.pdb
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.genruntimeconfig.cache
+C:\Users\Karl\Desktop\repos\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\ref\SJF but nicer.dll
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\bin\Debug\net6.0-windows\SJF but nicer.exe
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\bin\Debug\net6.0-windows\SJF but nicer.deps.json
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\bin\Debug\net6.0-windows\SJF but nicer.runtimeconfig.json
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\bin\Debug\net6.0-windows\SJF but nicer.dll
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\bin\Debug\net6.0-windows\SJF but nicer.pdb
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.csproj.AssemblyReference.cache
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer_MarkupCompile.cache
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer_MarkupCompile.lref
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.g.resources
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.AssemblyInfoInputs.cache
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.AssemblyInfo.cs
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.csproj.CoreCompileInputs.cache
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.dll
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\refint\SJF but nicer.dll
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.pdb
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\SJF but nicer.genruntimeconfig.cache
+C:\Users\mewpl\OneDrive\Desktop\Files\School\Coding Assignments\Coding-Assignments\SJF but nicer\obj\Debug\net6.0-windows\ref\SJF but nicer.dll
